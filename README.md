@@ -20,9 +20,9 @@ This machine learning project requires the following libraries and tools install
 You will also need to have software installed to run and execute a Jupyter Notebook.
 
 
-## Deployment
+## Run
 
-To deploy this project.  
+To run this project.  
 
 ```bash
   python app.py
